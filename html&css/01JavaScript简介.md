@@ -1,0 +1,29 @@
+# JavaScript简介
+
+ECMAScript是JavaScript的标准，由各个厂商负责具体实现。
+
+### JavaScript的实现由三个部分组成
+
+- ECMAScript
+
+- DOM
+
+- BOM
+
+## JavaScript的特点
+
+- 解释型语言   
+  
+  - 不需要被编译为机器码执行，而是直接执行
+  
+  - 劣势便是运行慢
+  
+  - 使用了JIT技术，运行速度有所改善
+
+- 与C语言和Java语言的结构类似
+
+- 动态语言
+
+- 基于原型的面向对象
+
+
